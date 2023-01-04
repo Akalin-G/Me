@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TinaACG&show_icons=true&theme=radical)[]
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=TinaACG"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=Akalin-G"></a>
   <img src="https://weather-icon.journeyad.repl.co/@riben?v=1" align="right">
 </p>
 
@@ -26,8 +26,8 @@
 
 #### Console&Game
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-[![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/TinaACG)
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/TinaACG)
+[![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/Akalin-G)
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/Akalin-G)
 
 <table>
 <tr>
@@ -45,7 +45,7 @@ JavaScript 🕓 2m    ▍░░░░░░░░░░░░░░░░░░�
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
 
-[powered by waka-box-go](https://github.com/TinaACG/TinaACG)
+[powered by waka-box-go](https://github.com/Akalin-G/Me)
 
 </td>
 <td valign="top" width="50%">
@@ -60,7 +60,7 @@ JavaScript 🕓 2m    ▍░░░░░░░░░░░░░░░░░░�
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
-[powered by steam-box](https://github.com/TinaACG/TinaACG)
+[powered by steam-box](https://github.com/Akalin-G/Me)
 
 </td>
 </tr>
