@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TinaACG&show_icons=true&theme=radical)[]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akalin-G&show_icons=true&theme=radical)[]
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=Akalin-G"></a>
   <img src="https://weather-icon.journeyad.repl.co/@riben?v=1" align="right">
